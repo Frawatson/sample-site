@@ -1,0 +1,28 @@
+* {
+    background-color: #00aeef;
+    color: white;
+    font-size: 32;
+    margin: 0;
+}
+
+body {
+    background-color: 
+    font-size: 40;
+    text-align: initial;
+}
+h1 {
+    color: black;
+    font-size: 32;
+    margin: 0;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 28px;
+}
+
+article {
+    text-align: center;
+    font-size: 36px;
+}
